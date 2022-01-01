@@ -1,4 +1,4 @@
-# DianaLicense 嘉然许可证 嘉兴糖许可证
+# DianaLicense 嘉然许可证 嘉心糖许可证
 <!--又是一个玩梗仓库-->
 > 我们的项目是为[圣嘉然](https://space.bilibili.com/672328094)所写的,我们是嘉心糖
 
